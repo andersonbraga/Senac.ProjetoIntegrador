@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADEWROTOR\\source\\repos\\Senac.ProjetoIntegrador\\ControleDeEstoque\\Shared\\ControleDeEstoque.Shared.csproj": {}
+    "C:\\Users\\ADEWROTOR\\Desktop\\CURSO SENAC\\Projeto\\Senac.ProjetoIntegrador\\Senac.ProjetoIntegrador\\ControleDeEstoque\\Shared\\ControleDeEstoque.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADEWROTOR\\source\\repos\\Senac.ProjetoIntegrador\\ControleDeEstoque\\Shared\\ControleDeEstoque.Shared.csproj": {
+    "C:\\Users\\ADEWROTOR\\Desktop\\CURSO SENAC\\Projeto\\Senac.ProjetoIntegrador\\Senac.ProjetoIntegrador\\ControleDeEstoque\\Shared\\ControleDeEstoque.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADEWROTOR\\source\\repos\\Senac.ProjetoIntegrador\\ControleDeEstoque\\Shared\\ControleDeEstoque.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\ADEWROTOR\\Desktop\\CURSO SENAC\\Projeto\\Senac.ProjetoIntegrador\\Senac.ProjetoIntegrador\\ControleDeEstoque\\Shared\\ControleDeEstoque.Shared.csproj",
         "projectName": "ControleDeEstoque.Shared",
-        "projectPath": "C:\\Users\\ADEWROTOR\\source\\repos\\Senac.ProjetoIntegrador\\ControleDeEstoque\\Shared\\ControleDeEstoque.Shared.csproj",
+        "projectPath": "C:\\Users\\ADEWROTOR\\Desktop\\CURSO SENAC\\Projeto\\Senac.ProjetoIntegrador\\Senac.ProjetoIntegrador\\ControleDeEstoque\\Shared\\ControleDeEstoque.Shared.csproj",
         "packagesPath": "C:\\Users\\ADEWROTOR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADEWROTOR\\source\\repos\\Senac.ProjetoIntegrador\\ControleDeEstoque\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\ADEWROTOR\\Desktop\\CURSO SENAC\\Projeto\\Senac.ProjetoIntegrador\\Senac.ProjetoIntegrador\\ControleDeEstoque\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADEWROTOR\\AppData\\Roaming\\NuGet\\NuGet.Config",

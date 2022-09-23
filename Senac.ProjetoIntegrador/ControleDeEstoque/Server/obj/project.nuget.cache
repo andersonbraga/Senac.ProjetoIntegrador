@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HoX+QyQoB3+kfvdYXpHP6b/F1DcwZdNxtEed/5OTTjGzyw7JNB55+ZznUyJLF+TnkOHniIKDz2UeRilGdAAzVA==",
+  "dgSpecHash": "EoBACaxA+7NOs3JcqXM+z88VpVR2oTDsbRjwxp1i0J8HxVXDtajw9CBdBtmKSESWIv+K9ZbK5O3bmOszkM2VbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADEWROTOR\\source\\repos\\Senac.ProjetoIntegrador\\ControleDeEstoque\\Server\\ControleDeEstoque.Server.csproj",
+  "projectFilePath": "C:\\Users\\ADEWROTOR\\Desktop\\CURSO SENAC\\Projeto\\Senac.ProjetoIntegrador\\Senac.ProjetoIntegrador\\ControleDeEstoque\\Server\\ControleDeEstoque.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADEWROTOR\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.9\\microsoft.aspnetcore.authorization.6.0.9.nupkg.sha512",
     "C:\\Users\\ADEWROTOR\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.9\\microsoft.aspnetcore.components.6.0.9.nupkg.sha512",
