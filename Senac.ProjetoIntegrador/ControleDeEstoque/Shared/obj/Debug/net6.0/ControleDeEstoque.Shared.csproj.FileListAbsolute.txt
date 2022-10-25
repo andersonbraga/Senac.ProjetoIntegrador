@@ -1,0 +1,12 @@
+C:\Users\ADEWROTOR\Desktop\CURSO SENAC\Projeto\Senac.ProjetoIntegrador\Senac.ProjetoIntegrador\ControleDeEstoque\Shared\bin\Debug\net6.0\ControleDeEstoque.Shared.deps.json
+C:\Users\ADEWROTOR\Desktop\CURSO SENAC\Projeto\Senac.ProjetoIntegrador\Senac.ProjetoIntegrador\ControleDeEstoque\Shared\bin\Debug\net6.0\ControleDeEstoque.Shared.dll
+C:\Users\ADEWROTOR\Desktop\CURSO SENAC\Projeto\Senac.ProjetoIntegrador\Senac.ProjetoIntegrador\ControleDeEstoque\Shared\bin\Debug\net6.0\ControleDeEstoque.Shared.pdb
+C:\Users\ADEWROTOR\Desktop\CURSO SENAC\Projeto\Senac.ProjetoIntegrador\Senac.ProjetoIntegrador\ControleDeEstoque\Shared\obj\Debug\net6.0\ControleDeEstoque.Shared.csproj.AssemblyReference.cache
+C:\Users\ADEWROTOR\Desktop\CURSO SENAC\Projeto\Senac.ProjetoIntegrador\Senac.ProjetoIntegrador\ControleDeEstoque\Shared\obj\Debug\net6.0\ControleDeEstoque.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEWROTOR\Desktop\CURSO SENAC\Projeto\Senac.ProjetoIntegrador\Senac.ProjetoIntegrador\ControleDeEstoque\Shared\obj\Debug\net6.0\ControleDeEstoque.Shared.AssemblyInfoInputs.cache
+C:\Users\ADEWROTOR\Desktop\CURSO SENAC\Projeto\Senac.ProjetoIntegrador\Senac.ProjetoIntegrador\ControleDeEstoque\Shared\obj\Debug\net6.0\ControleDeEstoque.Shared.AssemblyInfo.cs
+C:\Users\ADEWROTOR\Desktop\CURSO SENAC\Projeto\Senac.ProjetoIntegrador\Senac.ProjetoIntegrador\ControleDeEstoque\Shared\obj\Debug\net6.0\ControleDeEstoque.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ADEWROTOR\Desktop\CURSO SENAC\Projeto\Senac.ProjetoIntegrador\Senac.ProjetoIntegrador\ControleDeEstoque\Shared\obj\Debug\net6.0\ControleDeEstoque.Shared.dll
+C:\Users\ADEWROTOR\Desktop\CURSO SENAC\Projeto\Senac.ProjetoIntegrador\Senac.ProjetoIntegrador\ControleDeEstoque\Shared\obj\Debug\net6.0\refint\ControleDeEstoque.Shared.dll
+C:\Users\ADEWROTOR\Desktop\CURSO SENAC\Projeto\Senac.ProjetoIntegrador\Senac.ProjetoIntegrador\ControleDeEstoque\Shared\obj\Debug\net6.0\ControleDeEstoque.Shared.pdb
+C:\Users\ADEWROTOR\Desktop\CURSO SENAC\Projeto\Senac.ProjetoIntegrador\Senac.ProjetoIntegrador\ControleDeEstoque\Shared\obj\Debug\net6.0\ref\ControleDeEstoque.Shared.dll
